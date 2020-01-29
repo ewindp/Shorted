@@ -1,0 +1,5 @@
+-Taruh folder di localhost (C:\xampp\htdocs\<nama_folder>)
+-Buka browser dan masukan localhost/<nama_folder>
+-Hasil akan muncul di layar
+-Jika ingin merubah data bisa merubah <nama_folder>/unsorted-names-list.txt
+-Untuk melihat hasil selain di layar bisa di <nama_folder>/sorted-names-list.txt
